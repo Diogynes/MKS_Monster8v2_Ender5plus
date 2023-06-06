@@ -1,5 +1,6 @@
-# MKS_Monster8v2_Ender5plus
-Printer configuration file to install a MKS Monster8 v2 board in an Ender 5 Plus.
+# MKS_Monster8 V2 in an Ender 5 Plus
+
+Printer configuration file to install a MKS Monster8 V2 board in an Ender 5 Plus.
 
 Note 1: Z-axis connections.
 The Monster8 board has 9 connectors for 8 drivers. It has two sockets for Z-axis steppers that are connected together.  For separate dual Z-axis control, plug the second z-axis stepper motor into one of the spare extruder connectors and populate the corresponding driver socket. I used socket E1 and the printer.cfg file has the pin definitions for that setup.
