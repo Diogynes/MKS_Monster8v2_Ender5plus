@@ -1,4 +1,4 @@
-# MKS_Monster8 V2 in an Ender 5 Plus
+# MKS Monster8 V2 in Ender 5 Plus
 
 Printer configuration file to install a MKS Monster8 V2 board in an Ender 5 Plus.
 
